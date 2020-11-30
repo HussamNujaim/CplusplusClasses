@@ -1,5 +1,4 @@
-# CplusplusClasses
-Classes in C++ - Assignment 3 : 
+# Classes in C++ - Assignment 3 : 
 
 --------------------------
 Classes exercises
